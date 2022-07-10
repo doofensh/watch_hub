@@ -1,6 +1,5 @@
 import React from 'react';
 import Cards from './Cards';
-import Navigation from './pra/Navigation';
 import series from "./series";
 
 
@@ -44,8 +43,6 @@ function App(){
                 img  = {series[6].img}
                 link = {series[6].link}
             />
-
-            <Navigation/>
         </>
     );
 }
