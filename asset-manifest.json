@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/watch_hub/static/css/main.7fe784c7.css",
+    "main.js": "/watch_hub/static/js/main.fdfcb0fb.js",
+    "index.html": "/watch_hub/index.html",
+    "main.7fe784c7.css.map": "/watch_hub/static/css/main.7fe784c7.css.map",
+    "main.fdfcb0fb.js.map": "/watch_hub/static/js/main.fdfcb0fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fe784c7.css",
+    "static/js/main.fdfcb0fb.js"
+  ]
+}
